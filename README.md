@@ -1,2 +1,2 @@
-# MVVMUsingDIwithRoom
-This project is demonstration of MVVM architecture using dependency injection contains room database   
+# MvvmAndPagination
+This project is demonstration of MVVM architecture using dependency injection and  implemented pagination   
